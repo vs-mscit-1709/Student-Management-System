@@ -1,0 +1,5 @@
+{
+  "name": "EduStream Student Management System",
+  "description": "A comprehensive student management system with role-based access control, CRUD operations, and secure authentication.",
+  "requestFramePermissions": []
+}
